@@ -1,0 +1,27 @@
+a { 
+ color: hotpink; 
+}
+
+.livvytitle {
+	font-size: 2rem;
+}
+
+.green-large {
+	font-family:Courier; 
+	color:limegreen; 
+	font-size: 40px
+}
+
+#gary {
+	color: red;
+}
+
+p {
+	font-size: 25;
+	font-family: sans-serif;
+}
+
+p
+{
+    display: inline;
+}
